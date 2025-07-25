@@ -1,12 +1,12 @@
-# Skilline Frontend 👩‍💻📚
+# Skilline Frontend 
 
 An intuitive and feature-rich frontend for Skilline, a platform designed to revolutionize the educational experience. This project provides a user-friendly interface for accessing various educational tools, resources, and functionalities. It aims to bridge the gap between physical classrooms and virtual learning environments, offering a seamless and engaging experience for both teachers and students.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live project here: [Skill-Line-Clone](https://skill-line-clone.vercel.app/)
 
-## 🚀 Key Features
+##  Key Features
 
 - **Theme Support**: Offers both light and dark mode for comfortable viewing in any environment. ☀️🌙
 - **Landing Page Sections**: Includes multiple sections showcasing the platform's features, integrations, and benefits. 🖼️
@@ -18,7 +18,7 @@ Check out the live project here: [Skill-Line-Clone](https://skill-line-clone.ver
 - **Teacher-Focused Design**: Emphasizes the teacher's experience and ease of use with a dedicated "Podium space." 🧑‍🏫
 - **All-In-One Cloud Software**: Promotes the software as a comprehensive solution for schools and offices. ☁️
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**:
     - React
@@ -27,7 +27,7 @@ Check out the live project here: [Skill-Line-Clone](https://skill-line-clone.ver
 - **Icons**:
     - lucide-react
 
-## 📦 Getting Started
+##  Getting Started
 
 Follow these steps to get the project up and running on your local machine.
 
@@ -88,7 +88,7 @@ frontend/
 └── ...
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -98,6 +98,3 @@ Contributions are welcome! Please follow these steps:
 4.  Push your changes to your fork.
 5.  Submit a pull request.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
