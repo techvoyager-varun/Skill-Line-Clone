@@ -1,0 +1,56 @@
+.curve-bg {
+  position: relative;
+  overflow: hidden;
+  height: 90vh;
+}
+
+.curve-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #FFF2E1;
+  border-radius: 0 0 80% 80% / 0 0 100% 100%;
+  transform: scaleX(1.5);
+  z-index: -1;
+  -webkit-border-radius: 0 0 80% 80% / 0 0 100% 100%;
+  -moz-border-radius: 0 0 80% 80% / 0 0 100% 100%;
+  -ms-border-radius: 0 0 80% 80% / 0 0 100% 100%;
+  -o-border-radius: 0 0 80% 80% / 0 0 100% 100%;
+}
+
+.dark .curve-bg::before {
+  border-bottom: 2px solid #ffffff33;
+  background-color: #1a1a2e;
+  box-shadow: 0 0 10px #F48C06, 0 0 1px #F48C06;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+
+
+@media (max-width: 1024px) {
+  .curve-bg {
+    height: 100vh;
+  }
+  .curve-bg::before {
+    border-radius: 0 0 100% 100% / 0 0 100% 100%;
+    transform: scaleX(2.5);
+    -webkit-transform: scaleX(2.5);
+    -moz-transform: scaleX(2.5);
+    -ms-transform: scaleX(2.5);
+    -o-transform: scaleX(2.5);
+}
+}
+
+
+@media (max-width: 768px) {
+  .curve-bg {
+    height: 110vh;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .curve-bg {
+    height: 130vh;
+  }
+}
