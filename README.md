@@ -4,7 +4,7 @@ An intuitive and feature-rich frontend for Skilline, a platform designed to revo
 
 ##  Live Demo
 
-Check out the live project here: [Skill-Line-Clone](https://skill-line-clone.vercel.app/)
+Check out the live project here: [Skilline-Clone](https://skill-line-clone.vercel.app/)
 
 ##  Key Features
 
