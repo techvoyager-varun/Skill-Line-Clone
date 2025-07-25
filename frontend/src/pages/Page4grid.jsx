@@ -29,7 +29,7 @@ export const Page4grid = () => {
                 <div className="absolute w-[100px] -top-4 -left-10 z-0 group-hover:scale-110 transition-transform duration-300">
                   <img src="/Ellipse 24.png" alt="" />
                 </div>
-                <img className="w-[22px] relative z-10 group-hover:scale-125 transition-transform duration-300" src="/Group 72.png" alt="" />
+                <img className="w-[22px] relative -top-6 lt:top-0 z-10 group-hover:scale-125 transition-transform duration-300" src="/Group 72.png" alt="" />
                 <p className="text-left text-[#696984] dark:text-[#b8b8b8] group-hover:text-[#252641] dark:group-hover:text-white transition-colors duration-300">
                   Teachers don't get lost in the grid view <br /> and have a dedicated Podium space.
                 </p>
@@ -39,7 +39,7 @@ export const Page4grid = () => {
                 <div className="absolute w-[100px] -top-4 -left-10 z-0 group-hover:scale-110 transition-transform duration-300">
                   <img src="/Ellipse 24.png" alt="" />
                 </div>
-                <img className="w-[22px] relative z-10 group-hover:scale-125 transition-transform duration-300" src="/Group 73.png" alt="" />
+                <img className="w-[22px] relative -top-3 lt:top-0 z-10 group-hover:scale-125 transition-transform duration-300" src="/Group 73.png" alt="" />
                 <p className="text-left text-[#696984] dark:text-[#b8b8b8] group-hover:text-[#252641] dark:group-hover:text-white transition-colors duration-300">
                   TA's and presenters can be moved to <br /> the front of the class.
                 </p>
@@ -49,7 +49,7 @@ export const Page4grid = () => {
                 <div className="absolute w-[100px] -top-4 -left-10 z-0 group-hover:scale-110 transition-transform duration-300">
                   <img src="/Ellipse 24.png" alt="" />
                 </div>
-                <img className="w-[22px] relative z-10 group-hover:scale-125 transition-transform duration-300" src="/users 2.png" alt="" />
+                <img className="w-[22px] relative -top-3 lt:top-0 z-10 group-hover:scale-125 transition-transform duration-300" src="/users 2.png" alt="" />
                 <p className="text-left text-[#696984] dark:text-[#b8b8b8] group-hover:text-[#252641] dark:group-hover:text-white transition-colors duration-300">
                   Teachers can easily see all students <br /> and class data at one time.
                 </p>
