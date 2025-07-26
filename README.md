@@ -1,6 +1,5 @@
 # Skilline Frontend 
 
-An intuitive and feature-rich frontend for Skilline, a platform designed to revolutionize the educational experience. This project provides a user-friendly interface for accessing various educational tools, resources, and functionalities. It aims to bridge the gap between physical classrooms and virtual learning environments, offering a seamless and engaging experience for both teachers and students.
 
 ##  Live Demo
 
