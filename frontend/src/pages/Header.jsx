@@ -5,7 +5,7 @@ export const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="curve-bg w-full max-w-[1920px] mx-auto px-4 relative overflow-hidden">
+    <header className="curve-bg w-full max-w-[1920px] mx-auto px-4 relative z-10 overflow-hidden">
       <nav className="relative w-full z-10 py-6 text-white flex flex-wrap justify-between items-center">
 
         <a href="/" className="flex items-center relative hover:opacity-90 transition-opacity duration-300">
@@ -57,7 +57,7 @@ export const Header = () => {
           </div>
         </div>
 
-        <div className="w-full md:w-1/2 flex overflow-hidden">
+        <div className="w-full md:w-1/2 flex">
           <img className="w-[300px] md:w-[450px] lg:w-[570px] hover:scale-105 transition-transform duration-500" src="/header-pic.png" alt="header" />
         </div>
       </div>
